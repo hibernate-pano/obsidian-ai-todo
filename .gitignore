@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# 执行器写进 vault 的产出不在这里，但本地试跑可能留下
+AI 代办/
